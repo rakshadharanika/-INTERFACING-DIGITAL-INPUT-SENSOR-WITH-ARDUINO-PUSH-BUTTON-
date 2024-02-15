@@ -67,7 +67,7 @@ FIGURE -03
 
 
 
-~~~~~~~~~~~~~~~
+```````
  int led=4;
 int pushbutton=3;
 void setup()
@@ -94,17 +94,15 @@ void loop()
    
  }
 }
-~~~
+``````
 
 
 
 
 ## OUTPUT OF SIMULATION
 
-![Screenshot (55)](https://github.com/rakshadharanika/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/149348380/bec3d183-dc7c-4a9a-8e30-49cfbfcc3c0d)
+![Screenshot (55)](https://github.com/rakshadharanika/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/149348380/991e440f-40b4-4561-9e9b-f36cc41e461f)
 
-
- 
  
  
 
