@@ -47,27 +47,13 @@ FIGURE-02
 4.	 .Execute the program 
 5.	Check the simulation 
 
-
-
-## CIRCUIT DIAGRAM 
-
-
-![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
-
-
-
-FIGURE -03
-
 ## CIRCUIT DIAGRAM 
 
 ![Screenshot (53)](https://github.com/rakshadharanika/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/149348380/759fe0e7-961f-45f4-80e3-aff11009d7c2)
 
 
 ## PROGRAM 
-
-
-
-```````
+```
  int led=4;
 int pushbutton=3;
 void setup()
@@ -94,10 +80,7 @@ void loop()
    
  }
 }
-``````
-
-
-
+```
 
 ## OUTPUT OF SIMULATION
 
