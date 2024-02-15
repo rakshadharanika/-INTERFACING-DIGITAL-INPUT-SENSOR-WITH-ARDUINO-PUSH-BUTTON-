@@ -99,7 +99,9 @@ void loop()
 
 
 
+## OUTPUT OF SIMULATION
 
+![Screenshot (55)](https://github.com/rakshadharanika/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/149348380/6a234bb4-d4b3-4b4a-ad3c-682ce6b74f4c)
 
 
 
@@ -109,8 +111,4 @@ void loop()
  
 
 
-
-## OUTPUT OF SIMULATION :
-
-![Screenshot (54)](https://github.com/rakshadharanika/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/149348380/ce7bafcb-41a3-4a42-af8a-b06777b25be3)
 
